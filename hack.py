@@ -11,7 +11,7 @@ os.system ('pkg install figlet -y')
 os.system ('pkg install sl -y')
 os.system ('clear')
 print ("\033[1;36m")
-os.system ('figlet Fanan Fx9')
+os.system ('figlet root hack')
 def main (main):
     print ("")
     time.sleep(1)
