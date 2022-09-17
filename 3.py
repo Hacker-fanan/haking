@@ -19,7 +19,7 @@ def main (main):
     if fx9 == 'https://instagram.com/zouhairettaher?igshid=NmNmNjAwNzg=' :
             os.system ('python rot.py')
             restart ()
-    elif fx9 == 'https://instagram.com/the_king_of06?igshid=NmNmNjAwNzg=' :
+    elif fx9 == 'https://instagram.com/the_king_of06?igshid=YmMyMTA2M2Y=' :
             os.system ('python rot2.py')
 main (main)
 home_main ()
